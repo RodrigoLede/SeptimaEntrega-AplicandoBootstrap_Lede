@@ -70,6 +70,10 @@ body{
    text-align: left;
    margin-right: 1rem;
 }
+.header_btn:hover{
+   background-color: brown;
+}
+
 
 /* Contenido Index */
 
@@ -118,6 +122,10 @@ main img{
    padding: 0.5rem 2rem;
    border-radius: 10px;
    margin: 1.5rem 0rem;
+}
+.tarjetas__btn:hover{
+   transform: scale(1.05);
+   background-color: darkgrey;
 }
 
 .foot{
